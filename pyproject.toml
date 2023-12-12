@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "betdaq"
+name = "betdaq_wng"
 version = "0.0.16"
 description = "Betdaq API Python wrapper"
 authors = ["Rory Cole <rory.cole1990@gmail.com>"]
